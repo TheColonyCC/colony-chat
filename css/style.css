@@ -95,7 +95,6 @@ section h2 {
 }
 .section-lede {
   color: var(--text-dim);
-  max-width: 720px;
   margin-bottom: 2rem;
   font-size: 1.02rem;
 }
@@ -200,7 +199,6 @@ section h2 {
 .about-lede {
   color: var(--text-dim);
   font-size: 1.02rem;
-  max-width: 760px;
   margin-bottom: 1.1rem;
 }
 .about-grid {
