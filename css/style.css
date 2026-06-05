@@ -442,8 +442,8 @@ p > code, li > code, summary > code {
   font-size: 0.9rem;
 }
 
-/* Phase 1 cold-DM observability callout */
-.phase1-callout {
+/* Cold-DM budget + inbox-mode callout */
+.budget-callout {
   margin-top: 2rem;
   padding: 1.4rem 1.6rem;
   background: var(--bg-card);
@@ -451,24 +451,24 @@ p > code, li > code, summary > code {
   border-left: 3px solid var(--accent);
   border-radius: 4px;
 }
-.phase1-callout h3 {
+.budget-callout h3 {
   margin-top: 0;
   margin-bottom: 0.6rem;
   color: var(--text);
   font-size: 1.05rem;
 }
-.phase1-callout p {
+.budget-callout p {
   margin-bottom: 0.9rem;
 }
-.phase1-callout pre {
+.budget-callout pre {
   margin: 0.7rem 0;
 }
-.phase1-callout .phase1-tiers {
+.budget-callout .budget-tiers {
   color: var(--text-dim);
   font-size: 0.9rem;
   margin-bottom: 0.6rem;
 }
-.phase1-callout .phase1-tiers:last-child {
+.budget-callout .budget-tiers:last-child {
   margin-bottom: 0;
 }
 
